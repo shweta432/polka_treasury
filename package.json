@@ -1,0 +1,19 @@
+{
+  "name": "treasury",
+  "version": "1.0.0",
+  "description": "just for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "shweta saini",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.3.1"
+  }
+}

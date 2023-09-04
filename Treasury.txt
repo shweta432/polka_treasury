@@ -1,0 +1,53 @@
+What is Treasury ? 
+
+    Treasury module is a core component that allows for decentralized funding and allocation of 
+    resources within the blockchain network. It enable token holder and stake holders to collectively
+    manage and distribute funds for various purposes.
+
+
+who are token holders and stake holders ? 
+
+    Stake holders : 
+        stake holders are broader particepants who have an interest in the success and growth of the 
+        blockchain echosystem beyond just holding tokens. Stakeholders may include developers,
+        validators, miners, users, dapp creators, community organizers, and other individuals or
+        entities actively contributing to the network's functionality and value proposition.
+        They may also have a voice in governance decisions and funding allocation.
+    
+    Token Holders:
+        Token holders are individuals or entities that hold a certain amount of the native
+        cryptocurrency or token of the blockchain network. Their holdings of tokens represent
+        a financial stake in the network. Token holders may include investors, traders, users, 
+        developers, and anyone who has acquired the blockchain's native tokens. Their influence and
+        voting power might be proportional to the number of tokens they hold. Token holders play a 
+        role in key decisions through voting mechanisms, such as those related to proposals in the 
+        Treasury module.
+
+
+What is Treasury palette ? 
+
+    Treasury Palette:
+        The "Treasury Palette" would likely refer to a specific module implemented within the 
+        Substrate framework for managing the treasury functionality. This module would provide the
+        necessary logic for creating and managing funding proposals, conducting voting processes, and 
+        releasing funds based on the outcomes of those votes. This module would be an essential part
+        of the governance and financial ecosystem of a blockchain network like Polkadot.
+
+    Proposal :
+        A proposal refers to a formal request submitted by a participant of the network to allocate 
+        funds from the treasury to a specific purpose. Any token holder can submit a proposal for 
+        funding from the Treasury.
+
+    Voting :
+        Voting involves the process by which stakeholders of the network express their support or 
+        opposition to these proposed funding requests.
+
+    Discussion and Evaluation:
+        Once a proposal is submitted, it goes through a period of discussion and evaluation by the
+        community. This can happen through forums, community channels, or dedicated platforms where
+        participants can ask questions and share opinions.
+
+    Voting Period:
+        After the discussion phase, the proposal enters a voting period. During this time, token
+        holders or stakeholders can cast their votes in favor of or against the proposal. The voting period is
+        typically time-limited and is defined by the network's governance rules.
